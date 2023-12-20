@@ -1,2 +1,2 @@
-# aws-terraform
-Demo project to learn CI/CD in AWS with Terraform 
+# aws-ecs-docker
+deploy docker container to a ecs cluster.
